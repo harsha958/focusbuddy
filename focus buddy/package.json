@@ -1,0 +1,16 @@
+{
+  "name": "focus-buddy",
+  "version": "1.0.0",
+  "description": "A gamified time management app that helps you stay focused and productive while taking care of virtual pets!",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve .",
+    "build": "echo 'No build step needed for static HTML'"
+  },
+  "keywords": ["focus", "timer", "productivity", "gamification", "pets"],
+  "author": "Focus Buddy Team",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.0.0"
+  }
+} 
